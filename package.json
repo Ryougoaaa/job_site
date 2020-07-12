@@ -1,0 +1,25 @@
+{
+  "name": "jobsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryougoaaa/job_site.git"
+  },
+  "author": "Nishimura Ryougo",
+  "license": "UNLICENSED",
+  "private": "true",
+  "bugs": {
+    "url": "https://github.com/Ryougoaaa/job_site/issues"
+  },
+  "homepage": "https://github.com/Ryougoaaa/job_site#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0"
+  }
+}
